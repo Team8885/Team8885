@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jim W Jones @Team8885 which is associated with FIRST high school robotics team competitions.
 FIRST => For Inspiration and Recognition of Science and Technology.  
-- FIRST was started by Dean Kammen, creator of Seqway scooters and related products.  He has used his talents
+- FIRST was started by Dean Kamen, creator of Seqway scooters and related products.  He has used his talents
 and money for the last dozen or so years to encourage STEM amoung young people, from K-6, to middle school,
 and high school.  The team where I mentor software, 8885, is sponsored by Maeser Preparatory Academy, a 
 charter public high school in Lindon, Utah.  
